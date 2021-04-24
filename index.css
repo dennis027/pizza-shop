@@ -3,7 +3,11 @@ img{
 }
 *{
     text-align: center;
-    background-image: url("images/back.jpeg");
+}
+body{
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #submit{
     float: right;
