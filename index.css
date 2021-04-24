@@ -1,6 +1,17 @@
 img{
-    border-radius: 75px;
+    border-radius: 100px;
 }
 *{
     text-align: center;
+    background-image: url("images/back.jpeg");
+}
+#submit{
+    float: right;
+    background-color: darkred;
+    color: aliceblue;
+}
+.card-header,.card-footer{
+    background-color: black;
+    color: yellow;
+
 }
