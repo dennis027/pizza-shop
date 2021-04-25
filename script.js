@@ -158,5 +158,15 @@ $(document).ready(function(){
         $("#totalbill").append("Your bill plus delivery fee is: "+deliceryamount);
       });
      
-
+      $("button#final-order").click(function(event){
+        event.preventDefault();
+  
+        $("#pizzatotal").hide();
+        $(".delivery").hide();
+        $("button#final-order").hide();
+        let deliceryamount= checkoutTotal+150;
+        console.log("Final Bill is: "+deliceryamount);
+        let person = $("input#name").val();
+        let phone = $("input#phone").val();
+        let location = $("input#location").val();
     
