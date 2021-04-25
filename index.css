@@ -14,8 +14,21 @@ body{
     background-color: darkred;
     color: aliceblue;
 }
+
 .card-header,.card-footer{
     background-color: black;
     color: yellow;
 
+}
+table,tr,td{
+    color: darkorchid;
+}
+button{
+    color: orange;
+}
+.btn btn-orange proceed{
+    color: orange;
+}
+.sub{
+    color: bisque;
 }
