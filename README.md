@@ -23,4 +23,4 @@ You can reach me through my email @ machariad196@gmail.com or contact +254799157
 ### Live Site
 View [live](https://dennis027.github.io/pizza-shop/)
 ### Licence
-This project is under the  [MIT](LICENSE) licence
+This project is under the  [MIT](LICENCE) licence
