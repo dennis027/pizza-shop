@@ -1,8 +1,10 @@
+
 img{
     border-radius: 100px;
 }
 *{
     text-align: center;
+    font-family: 'Roboto Mono', monospace;
 }
 body{
     background-image: url("images/back.jpg");
